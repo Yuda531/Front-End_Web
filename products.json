@@ -1,0 +1,28 @@
+{
+   "products": [
+      {
+         "name": "Mushrooms",
+         "imgPath": "img/products/mushroom.jpg",
+         "idr": "Rp. 15.000",
+         "sgd": "$5"
+      },
+      {
+         "name": "Potatos",
+         "imgPath": "img/products/potato.jpg",
+         "idr": "Rp. 18.000",
+         "sgd": "$8"
+      },
+      {
+         "name": "carrots",
+         "imgPath": "img/products/carrot.jpg",
+         "idr": "Rp. 12.000",
+         "sgd": "$2"
+      },
+      {
+         "name": "Tomatoes",
+         "imgPath": "img/products/tomatoes.jpg",
+         "idr": "Rp. 10.000",
+         "sgd": "$1"
+      }
+   ]
+}

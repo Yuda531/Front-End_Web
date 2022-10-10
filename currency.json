@@ -1,0 +1,24 @@
+{
+    "currency": [
+        {
+            "idr": "Rp. 15000",
+            "name": "Mushrooms",
+            "imgPath": "img/products/mushroom.jpg"
+        },
+        {
+            "idr": "Rp. 19000",
+            "name": "Potatos",
+            "imgPath": "img/products/potato.jpg"
+        },
+        {
+            "idr": "Rp. 11000",
+            "name": "Carrots",
+            "imgPath": "img/products/carrot.jpg"
+        },
+        {
+            "idr": "Rp. 8000",
+            "name": "Tomatoes",
+            "imgPath": "img/products/tomatoes.jpg"
+        }
+    ]
+}
